@@ -1,14 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" height="200px"/>
 </div>
-
+<!-- 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Stedamb&style=flat-square&color=blue" alt=""/>
-</div>
+</div> -->
 
 <div id="title" align="center">
   <h1>Hi there 👋</h1>
 </div>
+
+I'm a Full-Stack Developer from Rimini, Italy.
 
 
 # 💻 Tech Stack:
@@ -22,9 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Stedamb&icon=0&color=12)](https://visitcount.itsvg.in)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
