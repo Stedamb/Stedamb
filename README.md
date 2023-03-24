@@ -6,11 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=Stedamb&style=flat-square&color=blue" alt=""/>
 </div> -->
 
-<div id="title" align="center">
-  <h1>Hi there 👋</h1>
-</div>
 
-I'm a Full-Stack Developer from Rimini, Italy.
+# Hi there 👋
+#### I'm a Full-Stack Developer from Rimini, Italy.
 
 
 
