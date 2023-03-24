@@ -4,7 +4,10 @@
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Stedamb&style=flat-square&color=blue" alt=""/>
-  ### Hi there 👋
+</div>
+
+<div id="title" align="center">
+  <h1>Hi there 👋</h1>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
