@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" height="200px"/>
 </div>
 
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=Stedamb&style=flat-square&color=blue" alt=""/>
+</div>
+
 ### Hi there 👋
 
 <!--
