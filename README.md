@@ -2,11 +2,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" height="200px"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Stedamb&style=flat-square&color=blue" alt=""/>
+  ### Hi there 👋
 </div>
 
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Stedamb/stedamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
