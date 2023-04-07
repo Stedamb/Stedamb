@@ -10,14 +10,14 @@
 # Hi there 👋
 I'm a Full-Stack Developer from Rimini, Italy. </br>
 Active websites: </br>
-[Cleared To Play - Blog for a content creator in the dj world](https://clearedtoplay.it) </br>
-[Da Lenin Barber Shop - Brochure website for a local barber shop](https://daleninbarbershop.it) </br>
-Github websites:
-[First personal website, not in use](https://stedamb.github.io/Personal/) </br>
-[Small project to showcase some fonts and some CSS tricks](https://stedamb.github.io/Typo/) </br>
-[React project with cool design and some hacker's world reference](https://stedamb.github.io/react_tailwind_demo/) </br>
-[Small brochure website for transport company](https://stedamb.github.io/Trasporti/) </br>
-[Quick project to showcase a pfp like a business card](https://stedamb.github.io/LoserClubBusinessCard) </br>
+- [Cleared To Play - Blog for a content creator in the dj world](https://clearedtoplay.it) </br>
+- [Da Lenin Barber Shop - Brochure website for a local barber shop](https://daleninbarbershop.it) </br>
+Github websites: </br>
+- [First personal website, not in use](https://stedamb.github.io/Personal/) </br>
+- [Small project to showcase some fonts and some CSS tricks](https://stedamb.github.io/Typo/) </br>
+- [React project with cool design and some hacker's world reference](https://stedamb.github.io/react_tailwind_demo/) </br>
+- [Small brochure website for transport company](https://stedamb.github.io/Trasporti/) </br>
+- [Quick project to showcase a pfp like a business card](https://stedamb.github.io/LoserClubBusinessCard) </br>
 
 --- 
 
