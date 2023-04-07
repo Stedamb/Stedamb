@@ -10,7 +10,7 @@
 # Hi there 👋
 I'm a Full-Stack Developer from Rimini, Italy.
 Active websites:
-[1](clearedtoplay.it)
+[1](https://clearedtoplay.it)
 [2](daleninbarbershop.it)
 
 
