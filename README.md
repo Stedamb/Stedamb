@@ -11,6 +11,8 @@
 I'm a Full-Stack Developer from Rimini, Italy. </br>
 
 Active websites: </br>
+- [Portfolio - 🛠️ Work in progress 🛠️ ](https://stedamb.github.io/Portfolio)
+- [Portfolio - Vercel build](https://portfolio-stedamb.vercel.app)
 - [Cleared To Play - Blog for a content creator in the dj world](https://clearedtoplay.it) </br>
 - [Da Lenin Barber Shop - Brochure website for a local barber shop](https://daleninbarbershop.it) </br>
 
