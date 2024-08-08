@@ -8,12 +8,13 @@
 
 
 # Hi there 👋
-I'm a Full-Stack Developer from Rimini, Italy. </br>
+I'm a Front End Developer from Rimini, Italy. </br>
 
 Active websites: </br>
 - [Portfolio - 🛠️ Work in progress 🛠️ ](https://portfolio-stedamb.vercel.app)
-- [Cleared To Play - Blog for a content creator in the dj world](https://clearedtoplay.it) </br>
-- [Da Lenin Barber Shop - Brochure website for a local barber shop](https://daleninbarbershop.it) </br>
+- [VideoMaker Portfolio](https://videomaker-psi.vercel.app/)</br>
+- [Da Lenin Barber Shop - Brochure website for a local barber shop](https://daleninbarbershop.it)</br>
+- [SmartPlants](https://www.smartplants.it/)</br>
 
 Github websites: </br>
 - [First personal website, not in use](https://stedamb.github.io/Personal/) </br>
@@ -35,20 +36,3 @@ Github websites: </br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Stedamb&icon=0&color=12)](https://visitcount.itsvg.in)
-
-
-
-<!--
-**Stedamb/stedamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
