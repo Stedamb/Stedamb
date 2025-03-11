@@ -11,10 +11,15 @@
 I'm a Front End Developer from Rimini, Italy. </br>
 
 Active websites: </br>
-- [Portfolio - 🛠️ Work in progress 🛠️ ](https://portfolio-stedamb.vercel.app)
+- [Portfolio](https://www.stedamb.it)
+- [Anima Noire - Website for a local tattoo studio](https://animanoire.it)</br>
+- [Da Lenin Barber Shop - Website for a local barber shop](https://daleninbarbershop.it)</br>
+- [Old (but still cool) Portfolio](https://www.stedamb-portfolio.vercel.app)</br>
+
+Projects and ideas: </br>
 - [VideoMaker Portfolio](https://videomaker-psi.vercel.app/)</br>
+- [Meditazioni](https://meditazioni.vercel.app/)</br>
 - [Personal Journal](https://personal-journal-chi.vercel.app/)</br>
-- [Da Lenin Barber Shop - Brochure website for a local barber shop](https://daleninbarbershop.it)</br>
 - [SmartPlants](https://www.smart-plants.vercel.app.it/)</br>
 
 Github websites: </br>
