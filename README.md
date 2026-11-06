@@ -1,42 +1,31 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" height="200px"/>
-</div>
-<!-- 
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Stedamb&style=flat-square&color=blue" alt=""/>
-</div> -->
+# Hi, I'm Stefano 👋
 
+Front-end developer based in Berlin. I build fast, content-driven websites and web apps with Astro, React and TypeScript, from design to deployment.
 
-# Hi there 👋
-I'm a Front End Developer from Rimini, Italy. </br>
+🌐 [stedamb.dev](https://www.stedamb.dev)
 
-Active websites: </br>
-- [Portfolio](https://www.stedamb.it)
-- [Luxcoin - A website showcasing an ancient coin collection](https://www.luxcoin.it/)</br>
-- [Da Lenin Barber Shop - Website for a local barber shop](https://daleninbarbershop.it)</br>
-- [Old (but still cool) Portfolio](https://www.stedamb-portfolio.vercel.app)</br>
+## Featured projects
 
-Projects and ideas: </br>
-- [BigBenchApp](https://big-bench-app.vercel.app/)</br>
-- [VideoMaker Portfolio](https://videomaker-psi.vercel.app/)</br>
-- [Meditazioni](https://meditazioni.vercel.app/)</br>
-- [Personal Journal](https://personal-journal-chi.vercel.app/)</br>
-- [SmartPlants](https://www.smart-plants.vercel.app.it/)</br>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Big Bench App](https://github.com/Stedamb/big-bench-app) · [live](https://big-bench-app.vercel.app) | Map, passport and guestbook for the 450+ Big Benches across Italy and Europe | React, Supabase, Leaflet, Capacitor |
+| [Portfolio](https://github.com/Stedamb/portfolio) · [live](https://www.stedamb.dev) | My personal site, with a serverless contact form | Astro, React, Tailwind CSS, Resend |
+| [AnimaNoire](https://github.com/Stedamb/animanoire) · [live](https://anima-noire.vercel.app) | Website for a tattoo studio in Rimini, with content managed in a CMS | Astro, Sanity |
+| [Videomaker Portfolio](https://github.com/Stedamb/videomaker-portfolio) · [live](https://videomaker-psi.vercel.app) | Video journal of travels and videomaking experiments | Astro, React, view transitions |
+| [Journal](https://github.com/Stedamb/journal) · [live](https://personal-journal-chi.vercel.app) | Personal journal of short essays, written in Markdown | Astro, Tailwind CSS |
 
-Github websites: </br>
-- [First personal website, not in use](https://stedamb.github.io/Personal/) </br>
---- 
+## Client work
 
-# 💻 Tech Stack:
-![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- [LuxCoin](https://www.luxcoin.it): showcase of an ancient coin collection (Next.js, Sanity)
+- [Da Lenin Barber Shop](https://www.daleninbarbershop.it): website for a local barber shop (Astro)
 
-<!-- # 📊 GitHub Stats: 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Stedamb&theme=tokyo-night) -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Stedamb&theme=dark&hide_border=false&include_all_commits=true&count_private=true) -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Stedamb&theme=dark&hide_border=false)<br/> -->
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stedamb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" width="100%" height="200px">
-</div> -->
+## Tech stack
 
----
-[![](https://visitcount.itsvg.in/api?id=Stedamb&icon=0&color=12)](https://visitcount.itsvg.in)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
