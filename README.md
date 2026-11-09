@@ -11,7 +11,8 @@ Front-end developer based in Berlin. I build fast, content-driven websites and w
 | [Big Bench App](https://github.com/Stedamb/big-bench-app) · [live](https://big-bench-app.vercel.app) | Map, passport and guestbook for the 450+ Big Benches across Italy and Europe | React, Supabase, Leaflet, Capacitor |
 | [Portfolio](https://github.com/Stedamb/portfolio) · [live](https://www.stedamb.dev) | My personal site, with a serverless contact form | Astro, React, Tailwind CSS, Resend |
 | [AnimaNoire](https://github.com/Stedamb/animanoire) · [live](https://anima-noire.vercel.app) | Website for a tattoo studio in Rimini, with content managed in a CMS | Astro, Sanity |
-| [Videomaker Portfolio](https://github.com/Stedamb/videomaker-portfolio) · [live](https://videomaker-psi.vercel.app) | Video journal of travels and videomaking experiments | Astro, React, view transitions |
+| [Videomaker Portfolio](https://github.com/Stedamb/videomaker-portfolio) · [live](https://videomaker-psi.vercel.app) | Video-focused portfolio: a journal of travels and videomaking experiments | Astro, React, View Transitions |
+| [Minimal Portfolio](https://github.com/Stedamb/minimal-portfolio) · [live](https://videomaker-v2.vercel.app) | Minimal portfolio template for visual artists, without a UI framework | Astro, Tailwind CSS |
 | [Journal](https://github.com/Stedamb/journal) · [live](https://personal-journal-chi.vercel.app) | Personal journal of short essays, written in Markdown | Astro, Tailwind CSS |
 
 ## Client work
